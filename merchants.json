@@ -1,0 +1,66 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2024-12-15",
+  "merchants": [
+    {
+      "domain": "amazon.fr",
+      "name": "Amazon",
+      "discount": "2%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "fnac.com",
+      "name": "Fnac",
+      "discount": "4%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cdiscount.com",
+      "name": "Cdiscount",
+      "discount": "3%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "darty.com",
+      "name": "Darty",
+      "discount": "2.5%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "sephora.fr",
+      "name": "Sephora",
+      "discount": "5%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "decathlon.fr",
+      "name": "Decathlon",
+      "discount": "3%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "booking.com",
+      "name": "Booking.com",
+      "discount": "4%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "zalando.fr",
+      "name": "Zalando",
+      "discount": "6%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "asos.com",
+      "name": "ASOS",
+      "discount": "8%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "leboncoin.fr",
+      "name": "Leboncoin",
+      "discount": "1%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    }
+  ]
+}
